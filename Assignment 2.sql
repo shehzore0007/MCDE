@@ -1,4 +1,4 @@
-											--JOINS--
+											--Assignment 2 JOINS--
 --2.1. Write a query that lists every product with its brand name, using production.products and production.brands.--
 
 select p.product_name, b.brand_name
